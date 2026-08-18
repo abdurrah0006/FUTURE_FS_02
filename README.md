@@ -507,21 +507,26 @@ Possible future improvements include:
 
 ## 📸 Screenshots
 
+### Authentication
+
+![Login](image/Login.png)
+
 ### Dashboard
 
-![Dashboard](image/dashboard.jpg)
-
-### Lead Management
-
-![Lead Management](image/leadManagement.jpg)
+![Dashboard](image/Dashboard.png)
 
 ### Add Lead
 
-![Add Lead](image/addLead.jpg)
+![Add Lead](image/CreatingLead.png)
+
+### Lead Management
+
+![Lead Management](image/AllLeads.png)
+
 
 ### Analytics
 
-![Analytics](image/analytics.jpg)
+![Analytics](image/LeadDetails.png)
 
 ---
 
